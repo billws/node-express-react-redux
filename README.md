@@ -1,1 +1,3 @@
-# node-express-react-redux
+# node-express-react-redux  
+  
+## In the process...  
