@@ -1,0 +1,43 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+/* DivTable.com */
+.divTable{
+    display: table;
+    width: 90%;
+    margin: 0 auto;
+    position: relative;
+}
+.divTableRow {
+  display: table-row;
+}
+.divTableCellFront {
+    border: 1px solid #999999;
+    display: table-cell;
+    padding: 3px 10px;
+    width: 15%;
+    vertical-align:middle; 
+    text-align:center;
+}
+.divTableCellBack {
+    border: 1px solid #999999;
+    display: table-cell;
+    padding: 3px 10px;
+    width: 70%;
+    vertical-align:middle; 
+    text-align:center;
+}
+.divTableBody {
+    display: table-row-group;
+}
+.divCaption {
+    border:1px solid #999999; 
+    display: table-caption; 
+    text-align: center; 
+}
